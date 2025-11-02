@@ -1,5 +1,3 @@
-from re import S
-from ssl import SSL_ERROR_EOF
 import pygame
 import random
 import math
